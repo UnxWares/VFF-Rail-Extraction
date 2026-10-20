@@ -6,7 +6,7 @@ Railway track centreline segmentation on historical IGN aerial photographs
 ## Files
 
 | file | size | SHA-256 |
-|---|---|---|
+|:-|:-|:-|
 | `ortho-v1.fp16.safetensors` | 49,173,856 bytes (49.2 MB) | `eb70890c0ff99ce5886c677baed338f11ca597ff5ac5804c978cb238a0db01f4` |
 | `history.json` | training history (loss and validation metrics per epoch) | |
 
@@ -49,7 +49,7 @@ the metadata (`arch`, `encoder`, `input`, `mean`, `std`, `layer`, `zoom`, `metri
 Validation blocks (Brittany), relaxed metrics at 6 m:
 
 | metric | value |
-|---|---|
+|:-|:-|
 | F1 | 0.836 |
 | precision / recall | 0.83 / 0.84 |
 | median offset of the predicted skeleton | 2.2 m |
