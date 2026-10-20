@@ -1,0 +1,162 @@
+[
+ {
+  "epoch": 1,
+  "loss": 1.5064,
+  "img_s": 12.3
+ },
+ {
+  "epoch": 2,
+  "loss": 1.0298,
+  "img_s": 41.9
+ },
+ {
+  "epoch": 3,
+  "loss": 0.6507,
+  "img_s": 36.7,
+  "precision": 0.4408,
+  "rappel": 0.4485,
+  "f1": 0.4446,
+  "ecart_median_m": 4.45,
+  "ecart_p90_m": 11.44
+ },
+ {
+  "epoch": 4,
+  "loss": 0.4722,
+  "img_s": 32.2
+ },
+ {
+  "epoch": 5,
+  "loss": 0.4277,
+  "img_s": 36.0
+ },
+ {
+  "epoch": 6,
+  "loss": 0.3627,
+  "img_s": 43.2,
+  "precision": 0.7328,
+  "rappel": 0.7208,
+  "f1": 0.7267,
+  "ecart_median_m": 2.26,
+  "ecart_p90_m": 6.63
+ },
+ {
+  "epoch": 7,
+  "loss": 0.348,
+  "img_s": 44.6
+ },
+ {
+  "epoch": 8,
+  "loss": 0.3093,
+  "img_s": 41.4
+ },
+ {
+  "epoch": 9,
+  "loss": 0.3106,
+  "img_s": 37.8,
+  "precision": 0.7938,
+  "rappel": 0.7743,
+  "f1": 0.7839,
+  "ecart_median_m": 2.25,
+  "ecart_p90_m": 6.4
+ },
+ {
+  "epoch": 10,
+  "loss": 0.2358,
+  "img_s": 36.0
+ },
+ {
+  "epoch": 11,
+  "loss": 0.2478,
+  "img_s": 29.7
+ },
+ {
+  "epoch": 12,
+  "loss": 0.2497,
+  "img_s": 35.6,
+  "precision": 0.821,
+  "rappel": 0.8034,
+  "f1": 0.8121,
+  "ecart_median_m": 2.25,
+  "ecart_p90_m": 6.55
+ },
+ {
+  "epoch": 13,
+  "loss": 0.2367,
+  "img_s": 43.0
+ },
+ {
+  "epoch": 14,
+  "loss": 0.2149,
+  "img_s": 45.5
+ },
+ {
+  "epoch": 15,
+  "loss": 0.1959,
+  "img_s": 46.6,
+  "precision": 0.8247,
+  "rappel": 0.8247,
+  "f1": 0.8247,
+  "ecart_median_m": 2.24,
+  "ecart_p90_m": 6.47
+ },
+ {
+  "epoch": 16,
+  "loss": 0.1795,
+  "img_s": 50.5
+ },
+ {
+  "epoch": 17,
+  "loss": 0.1995,
+  "img_s": 48.5
+ },
+ {
+  "epoch": 18,
+  "loss": 0.1733,
+  "img_s": 45.8,
+  "precision": 0.818,
+  "rappel": 0.8104,
+  "f1": 0.8142,
+  "ecart_median_m": 2.26,
+  "ecart_p90_m": 6.59
+ },
+ {
+  "epoch": 19,
+  "loss": 0.1614,
+  "img_s": 39.8
+ },
+ {
+  "epoch": 20,
+  "loss": 0.1431,
+  "img_s": 36.6
+ },
+ {
+  "epoch": 21,
+  "loss": 0.1339,
+  "img_s": 27.7,
+  "precision": 0.8242,
+  "rappel": 0.8396,
+  "f1": 0.8318,
+  "ecart_median_m": 2.25,
+  "ecart_p90_m": 6.48
+ },
+ {
+  "epoch": 22,
+  "loss": 0.136,
+  "img_s": 24.3
+ },
+ {
+  "epoch": 23,
+  "loss": 0.1366,
+  "img_s": 27.1
+ },
+ {
+  "epoch": 24,
+  "loss": 0.1233,
+  "img_s": 22.7,
+  "precision": 0.8301,
+  "rappel": 0.8428,
+  "f1": 0.8364,
+  "ecart_median_m": 2.24,
+  "ecart_p90_m": 6.47
+ }
+]

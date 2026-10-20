@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+# local configuration (database credentials, source names): never published
+rail.local.json
+rail.local.env
+*.local.json
+*.local.env
+.env
+# data: tiles, chips, probabilities, runs, checkpoints
+data/
+*.pt
+*.pth
+*.onnx
